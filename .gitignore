@@ -1,3 +1,5 @@
 node_modules
 dist
 .parcel-cache
+test
+babel.config.json
