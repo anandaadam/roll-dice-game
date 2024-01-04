@@ -1,4 +1,3 @@
-
 # Roll Dice Game
 
 ## Description
@@ -23,11 +22,11 @@ This is a very simple web gaming application to play with your friends. Simply r
 
 1. Clone this repository:
    ```bash
-   git clone [url-repositori]
+   git clone https://github.com/adamanandas/roll-dice-game.git
    ```
 2. Go to project directory:
    ```bash
-   cd directory-name 
+   cd roll-dice-game 
    ```
 
 ## Run The Application
